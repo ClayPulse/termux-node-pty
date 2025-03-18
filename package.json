@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "node-gyp": "^11.1.0",
+    "node-pty": "^1.1.0-beta32",
+    "ws": "^8.18.1"
+  }
+}
